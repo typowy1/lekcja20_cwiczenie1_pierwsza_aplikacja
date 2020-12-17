@@ -181,6 +181,12 @@ public class Mvc {
     //spring.mvc.view.prefix=/WEB-INF/
     //spring.mvc.view.suffix=.jsp
 
+    //lub
+
+    //application.properties
+    //
+    //spring.mvc.view.prefix=/views/
+    //spring.mvc.view.suffix=.html
     //
     //Uruchamiamy aplikację na Tomkacie. Po wpisaniu dowolnych wartości całkowitoliczbowych w konsoli zobaczymy obliczony wynik.
 
