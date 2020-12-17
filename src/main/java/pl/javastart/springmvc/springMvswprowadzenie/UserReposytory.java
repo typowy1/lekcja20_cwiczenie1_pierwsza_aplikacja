@@ -1,4 +1,4 @@
-package pl.javastart.springmvc;
+package pl.javastart.springmvc.springMvswprowadzenie;
 
 import org.springframework.stereotype.Repository;
 
