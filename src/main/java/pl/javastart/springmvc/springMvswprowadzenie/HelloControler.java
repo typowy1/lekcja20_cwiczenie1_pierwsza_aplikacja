@@ -82,7 +82,6 @@ public class HelloControler {
 
 
     //podzielenie na dodawanie, list i przekierowanie
-
     UserReposytory userReposytory; //uwspólnienie kożystania z tej samej klasy
 
     public HelloControler(UserReposytory userReposytory) { // spring będzie nam tworzyć reposytory, trzebo oznaczyć klase repozytory adnotację @Repozytory
